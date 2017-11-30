@@ -1,12 +1,16 @@
 ---
 title: "支付寶 【三分鐘實名】"
 date: 2017-11-01 00:00:00 +0800
+header:
+  teaser: /assets/images/alipaycn-verify/cover.png
 categories: 支付寶 淘寶
 tags: 支付寶CN 支付寶 淘寶
-toc: true
-toc_label: "My Table of Contents"
-toc_icon: "gear"
+# toc: true
+# toc_label: "My Table of Contents"
+# toc_icon: "gear"
 ---
+
+{% include figure image_path="/assets/images/alipaycn-verify/cover.png" alt="this is a placeholder image" caption="This is a figure caption." %}
 
 支付寶良心發現，推出左「**三分鐘實名套餐**」，等你唔洗返大陸開戶安坐家中搞掂哂。
 為左不久將來嘅紅包同返現，係時侯實名返個支付寶 CN。
