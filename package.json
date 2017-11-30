@@ -1,0 +1,14 @@
+{
+  "name": "tbhtk.ru",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docker-bundle": "docker-compose run site bundle",
+    "docker-jekyll": "docker-compose run site jekyll",
+    "docker-serve": "docker-compose run --service-ports site jekyll serve --watch --force_polling "
+  },
+  "author": "tbhtk",
+  "license": "ISC"
+}
