@@ -1,8 +1,17 @@
+# jekyll
 _site
 .sass-cache
 .jekyll-metadata
-
-_site/**
-vendor/**
 Gemfile.lock
+Gemfile.*
+vendor
+
+# npm
 node_modules
+
+# vscode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
